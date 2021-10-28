@@ -29,11 +29,14 @@ export const Frame = styled.div`
 `;
 
 export const Display = styled.div`
+    width: 300px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-end;
     background-color: rgb(265, 265, 265, .1);
-    width: 300px;
     height: 50px;
     margin: 80px 10px;
     font-size: 1.1em;
@@ -44,15 +47,15 @@ export const Button = styled.button`
     box-shadow: 0px 0px 9px 2px rgba(20,4,7,0.1);
     -webkit-box-shadow: 0px 0px 9px 2px rgba(20,4,7,0.1);
     -moz-box-shadow: 0px 0px 9px 2px rgba(20,4,7,0.1);
-    width: 65px;
+    width: 100%;
     height: 50px;
-    margin: 5px;
     border: none;
     border-radius: 2px;
     background-color: #efefef;
 `;
 
-export const Keyboard = styled.div`
+export const Keyboard = styled.form`
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 65px 65px 65px 65px;
+    grid-gap: 10px;
 `;
