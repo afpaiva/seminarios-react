@@ -2,4 +2,4 @@
 
 Oficina de React
 
-<img src="https://github.com/afpaiva/seminarios-react/blob/main/src/assets/Screenshot.png?raw=true">
+<img src="https://github.com/afpaiva/seminarios-react/blob/main/src/assets/screen.png?raw=true">
