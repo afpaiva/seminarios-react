@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/seminarios-react/static/js/main.bc50d03a.chunk.js",
+    "main.js.map": "/seminarios-react/static/js/main.bc50d03a.chunk.js.map",
+    "runtime-main.js": "/seminarios-react/static/js/runtime-main.b92a6ec9.js",
+    "runtime-main.js.map": "/seminarios-react/static/js/runtime-main.b92a6ec9.js.map",
+    "static/js/2.f72ed8c0.chunk.js": "/seminarios-react/static/js/2.f72ed8c0.chunk.js",
+    "static/js/2.f72ed8c0.chunk.js.map": "/seminarios-react/static/js/2.f72ed8c0.chunk.js.map",
+    "index.html": "/seminarios-react/index.html",
+    "static/js/2.f72ed8c0.chunk.js.LICENSE.txt": "/seminarios-react/static/js/2.f72ed8c0.chunk.js.LICENSE.txt",
+    "static/media/background.c4c6ee07.jpg": "/seminarios-react/static/media/background.c4c6ee07.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b92a6ec9.js",
+    "static/js/2.f72ed8c0.chunk.js",
+    "static/js/main.bc50d03a.chunk.js"
+  ]
+}
