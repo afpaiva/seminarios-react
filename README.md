@@ -1,4 +1,6 @@
-## Seminarios 4 - PUC Minas Poços de Caldas
+## Calculator
+
+A simple calculator made just for fun.
 
 # Try it <a href="https://afpaiva.github.io/seminarios-react/" target="_blank"> [here] </a>
 
